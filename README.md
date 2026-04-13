@@ -22,8 +22,7 @@ No labels needed during training. This is **unsupervised anomaly detection**.
 ecg_anomaly_detector/
 │
 ├── data/
-│   ├── ecg5000_train.csv
-│   └── ecg5000_test.csv
+    ├── own dataset
 ├── model.py             # 1D Conv Autoencoder architecture (TensorFlow/Keras)
 ├── data_utils.py        # Data loading, preprocessing, threshold computation
 ├── visualisations.py    # 7 Seaborn/Matplotlib plots
