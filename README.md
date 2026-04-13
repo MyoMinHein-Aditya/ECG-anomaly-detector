@@ -28,8 +28,7 @@ ecg_anomaly_detector/
 ├── visualisations.py    # 7 Seaborn/Matplotlib plots
 ├── train.py             # Main training script
 ├── predict.py           # Inference on new signals
-├── requirements.txt
-└── README.md
+└── Requirements.txt
 ```
 
 ---
